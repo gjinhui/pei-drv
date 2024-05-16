@@ -27,7 +27,7 @@ How to use:
 
 1. Get verdor ID and device ID. (PEI card vendor ID and device ID: 8086:0d4b)
 ```
-# lspci -nn |grep 0000:b0:00.0
+# lspci -nn |grep b0:00.0
  b0:00.0 Class 1180: Device 8086:0d4b (rev 05)
 ```
 
