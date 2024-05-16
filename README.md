@@ -29,7 +29,6 @@ How to use:
 ```
 # lspci -nn |grep 0000:b0:00.0
  b0:00.0 Class 1180: Device 8086:0d4b (rev 05)
-
 ```
 
 2. Allocate a new id to the pei driver and bind the device to it.  For example:
